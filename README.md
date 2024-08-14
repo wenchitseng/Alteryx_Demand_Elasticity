@@ -23,7 +23,7 @@ Since the Historical Sales Report and Real Disposable Personal Income datasets a
 <div align=center>
 <img width="652" alt="image" src="https://github.com/user-attachments/assets/207f4886-5425-4ea2-9b6e-0eecec97c3d2">
 </div>
-<div align=center>
+
 |Date| Price | Sales | Income |  
 |---|-----|----|----|
 |2006-01-01| 18.65| 98| 31111|
@@ -31,5 +31,4 @@ Since the Historical Sales Report and Real Disposable Personal Income datasets a
 |2006-03-01| 18.65| 52| 31260|
 |2006-04-01| 18.75| 66 |31363|
 |2006-05-01| 14.06| 469| 31454|
-</div>
 
