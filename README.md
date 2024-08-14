@@ -8,7 +8,7 @@ This case study leverages Alteryx to explore price elasticity of demand, income 
 <img width="546" alt="image" src="https://github.com/user-attachments/assets/8c428a11-6b01-458b-8411-9af542301e59">
 </div>    
 
-- **Real Disposable Personal Income:** This dataset is from FRED where record the monthly Real Disposable Personal Income from 1965 to 2023.
+- **Real Disposable Personal Income:** This dataset is from FRED and records the monthly Real Disposable Personal Income from 1965 to 2023.
 <div align=center>
 <img width="283" alt="image" src="https://github.com/user-attachments/assets/f576284e-d075-4c86-bc46-f757543acdfd">
 </div>  
@@ -23,12 +23,16 @@ This case study leverages Alteryx to explore price elasticity of demand, income 
 <img width="652" alt="image" src="https://github.com/user-attachments/assets/207f4886-5425-4ea2-9b6e-0eecec97c3d2">
 </div>  
 Since the Historical Sales Report and Real Disposable Personal Income datasets are raw and uncleaned, we first need to use the Preparation Tool and Developer Tool to transform the data into a structured format. Then, we'll use the Join Tool to combine the datasets by the date column.The workflow and cleaned dataset is shown below (displaying only the first 5 rows):  
-
+<div align="center">  
+  
 |Date| Price | Sales | Income |  
 |---|-----|----|----|
 |2006-01-01| 18.65| 98| 31111|
 |2006-02-01| 18.65 |70| 31208|
 |2006-03-01| 18.65| 52| 31260|
 |2006-04-01| 18.75| 66 |31363|
-|2006-05-01| 14.06| 469| 31454|
+|2006-05-01| 14.06| 469| 31454|  
+
+  
+</div>
 
