@@ -1,4 +1,4 @@
-# Demand Elasticity Analysis
+# 📝 Demand Elasticity Analysis
 This case study leverages Alteryx to explore price elasticity of demand, income elasticity of demand, and the factors influencing sales dynamics, with a focus on the impact of real disposable personal income and pricing strategies.
 
 # Introduction
@@ -8,16 +8,19 @@ This case study leverages Alteryx to explore price elasticity of demand, income 
 <img width="546" alt="image" src="https://github.com/user-attachments/assets/8c428a11-6b01-458b-8411-9af542301e59">
 </div>    
 
+  
 - **Real Disposable Personal Income:** This dataset is from FRED and records the monthly Real Disposable Personal Income from 1965 to 2023.
 <div align=center>
 <img width="283" alt="image" src="https://github.com/user-attachments/assets/f576284e-d075-4c86-bc46-f757543acdfd">
 </div>  
 
+  
 - **2024 Pricing Strategiy:** This dataset includes the company's 2024 pricing strategy. We will later compare it with the results of time series forecasts based on historical sales data to assess the accuracy of our predictions.
 <div align=center>
 <img width="704" alt="image" src="https://github.com/user-attachments/assets/444820a2-409c-49b7-bb6e-af74996a9eac">
 </div>
 
+  
 # ① Data Transformation   
 <div align=center>
 <img width="652" alt="image" src="https://github.com/user-attachments/assets/207f4886-5425-4ea2-9b6e-0eecec97c3d2">
