@@ -1,5 +1,8 @@
 # 📝 Demand Elasticity Analysis
 This case study leverages Alteryx to explore price elasticity of demand, income elasticity of demand, and the factors influencing sales dynamics, with a focus on the impact of real disposable personal income and pricing strategies.
+<div align=center>
+<img width="1168" alt="image" src="https://github.com/user-attachments/assets/6b4becb3-ade5-49c3-98a3-98a6d8e1c276">
+</div>  
 
 # Introduction
 #### Dataset:
