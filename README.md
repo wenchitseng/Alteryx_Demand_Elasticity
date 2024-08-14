@@ -23,9 +23,11 @@ This case study leverages Alteryx to explore price elasticity of demand, income 
 <img width="652" alt="image" src="https://github.com/user-attachments/assets/207f4886-5425-4ea2-9b6e-0eecec97c3d2">
 </div>  
 Since the Historical Sales Report and Real Disposable Personal Income datasets are raw and uncleaned, we first need to use the Preparation Tool and Developer Tool to transform the data into a structured format. Then, we'll use the Join Tool to combine the datasets by the date column.  
+
 Note: We used an Inner Join, so the date column in the joined table begins from 2006-01-01.  
 
-The workflow and cleaned dataset is shown below (displaying only the first 5 rows):    
+The workflow and cleaned dataset is shown below (displaying only the first 5 rows):     
+
 
 <div align="center">  
   
