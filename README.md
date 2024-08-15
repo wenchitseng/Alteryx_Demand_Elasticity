@@ -24,7 +24,7 @@ This case study leverages Alteryx to explore price elasticity of demand, income 
 </div>
 
   
-# ① Data Transformation   
+# Data Transformation   
 <div align=center>
 <img width="652" alt="image" src="https://github.com/user-attachments/assets/207f4886-5425-4ea2-9b6e-0eecec97c3d2">
 </div>  
@@ -47,7 +47,7 @@ The workflow and cleaned dataset is shown below (displaying only the first 5 row
 </div>  
 
 
-# ② Demand Elasticity
+# Demand Elasticity
 <div align=center>  
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/1e2cf7f0-8502-44d8-9882-704ea382ef1c">  
 </div>
@@ -73,14 +73,5 @@ There is no obvious seasonality for this product, as there is a consistently sig
   
 🖋️ Conclusion:  
 This product is highly likely to be an **essential good**, such as tissue, eggs, bread, etc.
-
-# ③ Price Prediction
-<div align=center>  
-<img width="643" alt="image" src="https://github.com/user-attachments/assets/c7eee91e-a3e5-41d2-83cb-ae8fcdca429b">
-</div>
-
-<div align=center>
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/67df4809-94ff-4104-b7b2-1068cca6cfa2">
-</div> 
 
 
