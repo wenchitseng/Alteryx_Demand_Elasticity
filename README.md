@@ -74,4 +74,13 @@ There is no obvious seasonality for this product, as there is a consistently sig
 🖋️ Conclusion:  
 This product is highly likely to be an **essential good**, such as tissue, eggs, bread, etc.
 
+# ③ Price Prediction
+<div align=center>  
+<img width="643" alt="image" src="https://github.com/user-attachments/assets/c7eee91e-a3e5-41d2-83cb-ae8fcdca429b">
+</div>
+
+<div align=center>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/67df4809-94ff-4104-b7b2-1068cca6cfa2">
+</div> 
+
 
