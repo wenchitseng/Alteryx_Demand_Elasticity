@@ -53,7 +53,7 @@ The workflow and cleaned dataset is shown below (displaying only the first 5 row
 </div>
 
   
-<div alig=center>
+<div align=center>
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/b28225df-cf81-4b40-8d38-05ce819b8b32">  
 </div>  
 
@@ -72,6 +72,6 @@ There is no obvious seasonality for this product, as there is a consistently sig
 
   
 🖋️ Conclusion:  
-This product is highly likely to be an essential good, such as tissue, eggs, bread, etc.
+This product is highly likely to be an **essential good**, such as tissue, eggs, bread, etc.
 
 
