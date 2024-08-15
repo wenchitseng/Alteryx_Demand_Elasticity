@@ -58,17 +58,17 @@ The workflow and cleaned dataset is shown below (displaying only the first 5 row
 </div>  
 
 🔍 Finding (1):  
-A price elasticity of demand of -3.709 indicates that the demand for the product is highly elastic, meaning a 1% price increase leads to a 3.70% decrease in quantity demanded. This aligns with economic theory, as highly elastic products are usually non-essential or luxury goods where consumers can easily find substitutes or
+**A price elasticity of demand of -3.709** indicates that the demand for the product is highly elastic, meaning a 1% price increase leads to a 3.70% decrease in quantity demanded. This aligns with economic theory, as highly elastic products are usually non-essential or luxury goods where consumers can easily find substitutes or
 forego the purchase.  
 
   
 🔍 Finding (2):
-An income elasticity of demand of 0.9974 indicates the product is a normal good, with a 1% income increase leading to a 0.9974% rise in quantity demanded. This aligns with economic theory, as normal goods see demand rise with income. Since the elasticity is less than 1, it suggests the product is a necessity rather than a
+**An income elasticity of demand of 0.9974** indicates the product is a normal good, with a 1% income increase leading to a 0.9974% rise in quantity demanded. This aligns with economic theory, as normal goods see demand rise with income. Since the elasticity is less than 1, it suggests the product is a necessity rather than a
 luxury.
 
   
 🔍 Finding (3):
-There is no obvious seasonality for this product, as there is a consistently significant relationship between the month and demand.
+There is **no obvious seasonality** for this product, as there is a **consistently significant relationship between the month and demand.**
 
   
 🖋️ Conclusion:  
