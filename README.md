@@ -6,7 +6,7 @@ This case study leverages Alteryx to explore price elasticity of demand, income 
 
 # Introduction
 #### Dataset:
-- **Historical Sales Report:** This dataset includes price and monthly sales performance from 2006 to 2023, which, along with personal income data, will be used to explore price elasticity of demand, income elasticity of demand, and to identify any seasonality in historical sales performance.
+- **Historical Sales Report:** This dataset includes price and monthly sales performance from 2006 to 2023, which, along with personal income data, will be used to explore the price elasticity of demand, and income elasticity of demand, and to identify any seasonality in historical sales performance.
 <div align=center>
 <img width="546" alt="image" src="https://github.com/user-attachments/assets/8c428a11-6b01-458b-8411-9af542301e59">
 </div>    
@@ -18,7 +18,7 @@ This case study leverages Alteryx to explore price elasticity of demand, income 
 </div>  
 
   
-- **2024 Pricing Strategiy:** This dataset includes the company's 2024 pricing strategy. We will later compare it with the results of time series forecasts based on historical sales data to assess the accuracy of our predictions.
+- **2024 Pricing Strategy:** This dataset includes the company's 2024 pricing strategy. We will later compare it with the results of time series forecasts based on historical sales data to assess the accuracy of our predictions.
 <div align=center>
 <img width="704" alt="image" src="https://github.com/user-attachments/assets/444820a2-409c-49b7-bb6e-af74996a9eac">
 </div>
